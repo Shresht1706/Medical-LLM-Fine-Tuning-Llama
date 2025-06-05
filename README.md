@@ -1,5 +1,3 @@
-# Medical-LLM-Fine-Tuning-Llama
-Using Llama 2 and other resources from Hugging Face to create a pre-trained LLM to make a Medical-Specific LLM using fine tuning and training
 # LoRA Fine-Tuning for Causal Language Modeling
 
 This repository contains a Jupyter notebook demonstrating how to fine-tune a 4-bit quantized large language model (LLM) using **LoRA (Low-Rank Adaptation)** via **PEFT (Parameter-Efficient Fine-Tuning)** and the **Hugging Face Transformers** and **Accelerate** libraries. It supports experiment tracking with **Weights & Biases (W&B)**.
