@@ -1,6 +1,6 @@
 # LoRA Fine-Tuning for Causal Language Modeling
 
-This repository contains a Jupyter notebook demonstrating how to fine-tune a 4-bit quantized large language model (LLM) using **LoRA (Low-Rank Adaptation)** via **PEFT (Parameter-Efficient Fine-Tuning)** and the **Hugging Face Transformers** and **Accelerate** libraries. It supports experiment tracking with **Weights & Biases (W&B)**.
+This repository demonstrates how to fine-tune a 4-bit quantized large language model (LLM) to become a medical scholar using the appropriate data set. Uses LoRA (Low-Rank Adaptation) via PEFT (Parameter-Efficient Fine-Tuning) and the Hugging Face Transformers and Accelerate libraries. It supports experiment tracking with Weights & Biases (W&B).
 
 ---
 
